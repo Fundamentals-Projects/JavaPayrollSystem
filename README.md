@@ -1,4 +1,4 @@
-# Payroll System
+# Java Payroll System
 The figure 1 shows Payroll System which you should develop as your final project assignment. 
 
 Class Vehicle is now a superclass of classes Car and Motorcycle. Class PartTime is now a superclass of CommissionBasedPartTime and FixedBasedPartTime. 
